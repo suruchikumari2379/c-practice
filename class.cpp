@@ -29,7 +29,7 @@ int main() {
     obj1.setA(23);   // set value of a
     obj2.setB(45);   // set value of b
 
-    multiply(obj1, obj2);   // Output: Multiplication = 20
+    multiply(obj1, obj2);   // Output: Multiplication = 1035
     return 0;
 }
 
